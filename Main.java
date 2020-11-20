@@ -1,10 +1,8 @@
 package ui;
 import java.util.Scanner;
-import model.Shop;
 
 public class Main {
     Scanner sc;
-	Shop myShop;
 	
 	Main(){
         sc = new Scanner(System.in);
